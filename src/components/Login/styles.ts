@@ -48,5 +48,9 @@ export const styles = StyleSheet.create({
   Texto:{
     color:THEME.COLORS.White_Back,
     marginTop:10
+  },
+  TextoNovo:{
+    marginTop:20,
+    color:'blue'
   }
 });
